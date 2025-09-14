@@ -4,6 +4,9 @@ const updateBackpack = (update) => {
   console.info(update);
 };
 
+/**
+ * Represents a backpack with various properties and methods.
+ */
 const backpack = {
   name: "Everyday Backpack",
   volume: 30,
